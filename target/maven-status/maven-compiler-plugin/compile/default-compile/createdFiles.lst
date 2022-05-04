@@ -1,0 +1,15 @@
+com\neloarcher\browserplayer\domain\Role.class
+com\neloarcher\browserplayer\service\UserService.class
+com\neloarcher\browserplayer\repos\MusicRepo.class
+com\neloarcher\browserplayer\controller\MainController.class
+com\neloarcher\browserplayer\service\TrackServiceImpl.class
+com\neloarcher\browserplayer\repos\UserRepo.class
+com\neloarcher\browserplayer\domain\Track.class
+com\neloarcher\browserplayer\config\WebSecurityConfig.class
+com\neloarcher\browserplayer\domain\User.class
+com\neloarcher\browserplayer\Application.class
+com\neloarcher\browserplayer\controller\JsonController.class
+com\neloarcher\browserplayer\service\TrackService.class
+com\neloarcher\browserplayer\controller\RegistrationController.class
+com\neloarcher\browserplayer\config\MvcConfig.class
+com\neloarcher\browserplayer\controller\ControllerUtils.class
